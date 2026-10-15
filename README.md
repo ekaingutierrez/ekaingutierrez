@@ -1,16 +1,17 @@
-### Hi there, I'm Ekain Gutierrez.
-**Business Data Analytics Student | Data Scientist | Applied AI**
+### Hi, I'm Ekain.
 
-Turning messy data into strategic value is what drives me. As a 2nd-year Business Data Analytics student at Mondragon Unibertsitatea, my focus is on building data pipelines and applied AI systems that replace manual workflows with automated insights.
+I'm a 2nd-year Business Data Analytics student at Mondragon Unibertsitatea. 
 
-### 🛠 Tech Stack
-- **Languages & Databases:** Python, SQL
+I specialize in Data Science and Data Analysis. I build data pipelines and applied machine learning models to solve operational bottlenecks and extract strategic value from complex datasets.
+
+### What I work with
+- **Languages:** Python, SQL
 - **Data & ML:** Pandas, NumPy, Scikit-learn, Spatial Analytics
-- **Concepts:** Applied AI, RAG Architectures, Business Intelligence
+- **Concepts:** Data Engineering, Applied AI, RAG Architectures
 
-### 🚀 Featured Work
-- **Advanced Sports Analytics (Liga ACB):** Automated Python pipeline consolidating 325 files to project spatial tracking data.
-- **Systemic Risk Triage (BasqueFIK):** Developed a "Crisis Clock" triage model mapping supply chain contagion.
-- **Retail Analytics (Eroski):** Modeled CLTV and Churn metrics across massive customer databases.
+### Recent Projects
+- **Advanced Sports Analytics (Liga ACB):** Engineered a Python pipeline that consolidates 325 raw spatial tracking files into a unified dataset to calculate offensive metrics.
+- **Systemic Risk Triage (BasqueFIK):** Developed a triage model mapping financial risk and supply chain contagion across 399 local companies.
+- **Retail Analytics (Eroski):** Analyzed a loyalty database to model Customer Lifetime Value (CLTV) and churn.
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/ekain-gutierrez-mendizabal-895096444/)
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/ekain-gutierrez-mendizabal-895096444/)
